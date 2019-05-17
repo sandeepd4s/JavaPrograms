@@ -7,12 +7,12 @@ public class B extends A{
 	public int sal =32;
 	
 	public String getName(){
-		System.out.println("B");
+		System.out.println("Hi");
 		return name;
 	}
 	
 	public int getAge(){
-		System.out.println("B");
+		System.out.println("Hello");
 		return age;
 	}
 	
